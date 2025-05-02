@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?mpatwal=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 “The goal is to turn data into information, and information into insight.” – Carly Fiorina
 
 Hello, I’m Manisha Patwal, and welcome to my GitHub! I’m a passionate data enthusiast excited to explore, learn, and turn data into actionable insights to solve real-world problems.
