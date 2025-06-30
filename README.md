@@ -34,7 +34,7 @@ Each project is designed to tell a data-driven story and lay the foundation for 
 - **Exploratory Data Analysis (EDA)**: Comfortable with analyzing data, generating insights, and visualizing relationships using plots and summary statistics.
 - **Basic Machine Learning**: Knowledgeable in basic machine learning models, including linear regression, decision trees, and clustering.
 - **Basic Statistics**: Understanding of key statistical concepts like mean, median, standard deviation, and hypothesis testing.
-- **SQL Basics**: Familiar with SQL for querying databases, aggregating data, and performing basic data manipulations.
+- **SQL **: Familiar with SQL for querying databases, aggregating data, and performing basic data manipulations.
 
 
 🚀 What I'm Currently Working On:
